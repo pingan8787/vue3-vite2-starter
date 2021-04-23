@@ -1,5 +1,15 @@
 学习文章：[《从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境》](https://juejin.cn/post/6951649464637636622)
 
+### 使用 Prettier 格式化所有文件（. 表示所有文件）
+
+```bash
+npx prettier --write .
+```
+
+### 初始化 eslint 配置
+```bash
+npx eslint --init
+```
 
 # Vue 3 + Typescript + Vite
 
